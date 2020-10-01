@@ -1,3 +1,1 @@
-FROM alpine:latest
-
-RUN set
+FROM nginx
